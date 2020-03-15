@@ -32,6 +32,7 @@ const routing = (
             </h3>
         </div>
         <Switch>
+            <Route exact path="/portfolio" component={Home} />
             <Route exact path="/about" component={About} />
             <Route exact path="/blog" component={Blog} />
             <Route exact path="/contact" component={Contact} />
