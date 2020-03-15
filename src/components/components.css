@@ -1,0 +1,212 @@
+/* app styles */
+.App {
+    padding: 5%;
+    text-align: left;
+    width: auto;
+    line-height: 1.6;
+    color: #1f1f1f;
+    font-family: Helvetica, sans-serif;
+}
+
+/* about styles */
+.about-info {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+
+.profile-image {
+    text-align: center;
+    padding: 0;
+}
+
+.profile-image img {
+    width: 60%;
+}
+.skills-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    list-style-type: circle;
+    margin: 5%;
+}
+
+.skills-column {
+    font-weight: 500;
+}
+
+/* contact styles */
+
+
+/* home styles */
+
+
+
+/* introduction styles */
+.introduction {
+    margin-bottom: 5%;
+}
+.resume-link {
+    margin-top: 5%; 
+}
+
+.introduction p {
+    margin-top: 5%;
+    width: 50%;
+}
+.introduction a {
+    cursor: pointer;
+    text-decoration: none;
+    color: grey;
+    padding: 1% 2%;
+    transition-duration: 1s;
+    border: 2px dashed lightgray;
+}
+
+.introduction a:hover {
+    background-color: rgba(240, 175, 186, 0.158);
+    border: 2px dashed rgba(240, 175, 186, 0.521);
+    transition-duration: 1s;
+}
+
+/* projects styles */
+.projects a {
+    color: rgba(240, 175, 186, 0.808);
+    transition-duration: .2s;
+
+}
+
+.projects a:hover {
+    color: rgba(240, 175, 186, 0.521);
+    transition-duration: .2s;
+
+}
+
+.projects {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.project-box {
+    text-align: center;
+    padding: 1%;
+    margin: 2%;
+    width: 20%;
+    border: 2px dashed lightgray;
+    transition-duration: 2s;
+    background-repeat: repeat;
+    background-position: center;
+    background-size: auto;
+}
+
+.project-box a {
+    float: right;
+}
+
+.project-box:hover {
+    background-image: none;
+    transition-duration: 2s;
+    background-color: rgba(240, 175, 186, 0.521);
+}
+
+.project-content {
+    opacity: 0;
+    padding: 12%;
+    transition-duration: 1s;}
+
+.project-content:hover {
+    opacity: 1;
+}
+
+.sherlock {
+    background-image: url('sherlock.png');
+    transition-duration: 2s;
+}
+.eve {
+    background-image: url('eve.png');
+    transition-duration: 2s;
+}
+.einstein {
+    background-image: url('einstein.png');
+    transition-duration: 2s;
+}
+.rawls {
+    background-image: url('rawls.png');
+    transition-duration: 2s;
+}
+.backrow {
+    background-image: url('backrow.png');
+    transition-duration: 2s;
+}
+.backrow a {
+    margin-right: 2%;
+}
+.hbnb {
+    background-image: url('hbnb-logo.png');
+    transition-duration: 2s;
+}
+.monty {
+    background-image: url('stacks-queues.png');
+    transition-duration: 2s;
+}
+.shell {
+    background-image: url('simple-shell.jpeg');
+    transition-duration: 2s;
+}
+.printf {
+    background-image: url('printf.png');
+    transition-duration: 2s;
+}
+
+
+
+/* blog styles */
+.blog {
+    margin-bottom: 5%;
+}
+
+.blog-status {
+    margin-top: 10%;
+    text-align: center;
+}
+
+.blog-status a {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+    text-decoration: none;
+    color: rgba(240, 175, 186, 0.808);
+    transition-duration: .2s;
+}
+
+.blog-status a:hover {
+    color: rgba(240, 175, 186, 0.521);
+    transition-duration: .2s;
+}
+
+/* social styles */
+.social-links {
+    display: flex;
+    flex-flow: row wrap;
+    width: auto;
+    justify-content: center;
+}
+
+.social-links p {
+    margin-right: 2%;
+}
+
+.social-links a {
+    cursor: pointer;
+    text-decoration: none;
+    color: rgba(240, 175, 186, 0.808);
+    transition-duration: .2s;
+}
+
+.social-links a:hover {
+    color: rgba(240, 175, 186, 0.521);
+    transition-duration: .2s;
+}
