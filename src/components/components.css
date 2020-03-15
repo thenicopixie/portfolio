@@ -98,7 +98,109 @@
     transition-duration: 2s;
     background-repeat: repeat;
     background-position: center;
-    background-size: auto;
+}
+
+@media only screen and (max-width: 1000px) {
+
+    .projects {
+        flex-flow: row wrap;
+        align-items: center;
+    }
+    .project-box {
+        width: 40%;
+        background-size: auto;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .project-box:active {
+        background-image: none;
+        transition-duration: 1s;
+        background-color: rgba(240, 175, 186, 0.521);
+    }
+
+    .project-content {
+        padding: 0;
+    }
+
+    .about-info {
+        flex-flow: column;
+    }
+
+    .skills-container {
+        flex-flow: column wrap;
+    }
+
+    .introduction p {
+        width: 100%
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .projects {
+        flex-flow: column wrap;
+        align-items: center;
+    }
+    .project-box {
+        width: 40%;
+        background-size: auto;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .project-box:active {
+        background-image: none;
+        transition-duration: 1s;
+        background-color: rgba(240, 175, 186, 0.521);
+    }
+
+    .project-content {
+        padding: 0;
+    }
+
+    .about-info {
+        flex-flow: column;
+    }
+
+    .skills-container {
+        flex-flow: column wrap;
+    }
+
+    .introduction p {
+        width: 100%
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .projects {
+        flex-flow: column wrap;
+        align-items: center;
+    }
+    .project-box {
+        width: 80%;
+        background-size: auto;
+        background-repeat: no-repeat;
+        background-size: contain;
+    }
+    .project-box:active {
+        background-image: none;
+        transition-duration: 1s;
+        background-color: rgba(240, 175, 186, 0.521);
+    }
+
+    .project-content {
+        padding: 0;
+    }
+
+    .about-info {
+        flex-flow: column;
+    }
+
+    .skills-container {
+        flex-flow: column wrap;
+    }
+
+    .introduction p {
+        width: 100%
+    }
 }
 
 .project-box a {
