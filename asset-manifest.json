@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/nicoleswanson.io/static/css/main.b066de69.chunk.css",
-    "main.js": "/nicoleswanson.io/static/js/main.e8e805eb.chunk.js",
-    "main.js.map": "/nicoleswanson.io/static/js/main.e8e805eb.chunk.js.map",
-    "runtime-main.js": "/nicoleswanson.io/static/js/runtime-main.aecdbb97.js",
-    "runtime-main.js.map": "/nicoleswanson.io/static/js/runtime-main.aecdbb97.js.map",
-    "static/js/2.a8d12baa.chunk.js": "/nicoleswanson.io/static/js/2.a8d12baa.chunk.js",
-    "static/js/2.a8d12baa.chunk.js.map": "/nicoleswanson.io/static/js/2.a8d12baa.chunk.js.map",
-    "index.html": "/nicoleswanson.io/index.html",
-    "precache-manifest.76290ca7fd7d7ac7ae42e3587065545a.js": "/nicoleswanson.io/precache-manifest.76290ca7fd7d7ac7ae42e3587065545a.js",
-    "service-worker.js": "/nicoleswanson.io/service-worker.js",
-    "static/css/main.b066de69.chunk.css.map": "/nicoleswanson.io/static/css/main.b066de69.chunk.css.map",
-    "static/js/2.a8d12baa.chunk.js.LICENSE.txt": "/nicoleswanson.io/static/js/2.a8d12baa.chunk.js.LICENSE.txt",
-    "static/media/components.css": "/nicoleswanson.io/static/media/backrow.a4ade6c5.png",
-    "static/media/nicole.JPG": "/nicoleswanson.io/static/media/nicole.072911f6.JPG"
+    "main.css": "/nicoleswanson.site/static/css/main.e18eb607.chunk.css",
+    "main.js": "/nicoleswanson.site/static/js/main.d23dc59c.chunk.js",
+    "main.js.map": "/nicoleswanson.site/static/js/main.d23dc59c.chunk.js.map",
+    "runtime-main.js": "/nicoleswanson.site/static/js/runtime-main.5c63515d.js",
+    "runtime-main.js.map": "/nicoleswanson.site/static/js/runtime-main.5c63515d.js.map",
+    "static/js/2.a8d12baa.chunk.js": "/nicoleswanson.site/static/js/2.a8d12baa.chunk.js",
+    "static/js/2.a8d12baa.chunk.js.map": "/nicoleswanson.site/static/js/2.a8d12baa.chunk.js.map",
+    "index.html": "/nicoleswanson.site/index.html",
+    "precache-manifest.916a90e5bf1661bd95f347e5ff53980d.js": "/nicoleswanson.site/precache-manifest.916a90e5bf1661bd95f347e5ff53980d.js",
+    "service-worker.js": "/nicoleswanson.site/service-worker.js",
+    "static/css/main.e18eb607.chunk.css.map": "/nicoleswanson.site/static/css/main.e18eb607.chunk.css.map",
+    "static/js/2.a8d12baa.chunk.js.LICENSE.txt": "/nicoleswanson.site/static/js/2.a8d12baa.chunk.js.LICENSE.txt",
+    "static/media/components.css": "/nicoleswanson.site/static/media/backrow.a4ade6c5.png",
+    "static/media/nicole.JPG": "/nicoleswanson.site/static/media/nicole.072911f6.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.aecdbb97.js",
+    "static/js/runtime-main.5c63515d.js",
     "static/js/2.a8d12baa.chunk.js",
-    "static/css/main.b066de69.chunk.css",
-    "static/js/main.e8e805eb.chunk.js"
+    "static/css/main.e18eb607.chunk.css",
+    "static/js/main.d23dc59c.chunk.js"
   ]
 }
