@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.741a2f87.chunk.css",
-    "main.js": "/static/js/main.d753a7e5.chunk.js",
-    "main.js.map": "/static/js/main.d753a7e5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.736723a6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.736723a6.js.map",
-    "static/js/2.a8d12baa.chunk.js": "/static/js/2.a8d12baa.chunk.js",
-    "static/js/2.a8d12baa.chunk.js.map": "/static/js/2.a8d12baa.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.849cfc9d74dd067f4bbcc231c94224f9.js": "/precache-manifest.849cfc9d74dd067f4bbcc231c94224f9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.741a2f87.chunk.css.map": "/static/css/main.741a2f87.chunk.css.map",
-    "static/js/2.a8d12baa.chunk.js.LICENSE.txt": "/static/js/2.a8d12baa.chunk.js.LICENSE.txt",
-    "static/media/components.css": "/static/media/backrow.a4ade6c5.png",
-    "static/media/nicole.JPG": "/static/media/nicole.072911f6.JPG"
+    "main.css": "/portfolio/static/css/main.73d87317.chunk.css",
+    "main.js": "/portfolio/static/js/main.a31ea55c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.a31ea55c.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.f6eb50f0.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.f6eb50f0.js.map",
+    "static/js/2.a8d12baa.chunk.js": "/portfolio/static/js/2.a8d12baa.chunk.js",
+    "static/js/2.a8d12baa.chunk.js.map": "/portfolio/static/js/2.a8d12baa.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.e381a3aa6ee490479d9fca0c895d7186.js": "/portfolio/precache-manifest.e381a3aa6ee490479d9fca0c895d7186.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.73d87317.chunk.css.map": "/portfolio/static/css/main.73d87317.chunk.css.map",
+    "static/js/2.a8d12baa.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a8d12baa.chunk.js.LICENSE.txt",
+    "static/media/components.css": "/portfolio/static/media/backrow.a4ade6c5.png",
+    "static/media/nicole.JPG": "/portfolio/static/media/nicole.072911f6.JPG"
   },
   "entrypoints": [
-    "static/js/runtime-main.736723a6.js",
+    "static/js/runtime-main.f6eb50f0.js",
     "static/js/2.a8d12baa.chunk.js",
-    "static/css/main.741a2f87.chunk.css",
-    "static/js/main.d753a7e5.chunk.js"
+    "static/css/main.73d87317.chunk.css",
+    "static/js/main.a31ea55c.chunk.js"
   ]
 }
